@@ -6,7 +6,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class Main2 {
+	// Java program that counts numbers that are greater than or equal to 9999.
+public class Task2 {
 	public static void main(String[] args) throws FileNotFoundException {
 		int number = 0;
 		int count = 0;

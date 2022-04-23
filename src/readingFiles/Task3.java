@@ -5,8 +5,9 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Main3 {
-	// dataset_91033.txt
+public class Task3 {
+	
+	// Program that calculates the sum of numbers from text file (dataset_91033.txt)
 	public static void main(String[] args) throws FileNotFoundException {
 
 		int number = 0;
