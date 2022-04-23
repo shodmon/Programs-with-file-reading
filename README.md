@@ -1,3 +1,3 @@
-# ProgramsReadingFiles
+# Programs with File Reading
 
-Various small programs with reading files
+Various small programs that have file reading
